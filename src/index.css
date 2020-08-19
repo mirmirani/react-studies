@@ -3,3 +3,21 @@
     color: black;
 }
 
+table, th, td {
+    border: 1px black solid;
+
+}
+
+th, td {
+    padding: 5%;
+    width: 200px;
+}
+
+th {
+	background-color: gray;
+	color: white;
+}
+
+tr:hover {
+    background-color: lightgray;
+    }
