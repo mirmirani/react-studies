@@ -12,12 +12,11 @@ class App2 extends Component {
                <ul>
                    <li>Great my first note, Alhamdulillah!</li>
                    <li> I will prioritise Arabic in the mornings insha'Allah</li>
+                   <li>How do I end up making such pointless decisions</li>
                </ul>
             </div>
         )
     }
-
-
 
 };
 
